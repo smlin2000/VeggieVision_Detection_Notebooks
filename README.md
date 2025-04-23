@@ -1,5 +1,6 @@
 # VeggieVision_Notebooks
 Training/Evaluation notebooks from testing/research on finetuning yolov8 object detection model.
+< 3 Weeks of research/playing around with different datasets/data collection to train the model.
 
 Timeline for notebooks 
 1. Baseline
